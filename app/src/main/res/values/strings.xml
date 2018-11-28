@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Friendship Calculator</string>
+    <string name="calculate">Calculate</string>
+    <string name="personality">Personality</string>
+    <string name="communication">Communication</string>
+    <string name="humour">Humour</string>
+    <string name="sensitive">Sensitive</string>
+    <string name="god_fearing">God-Fearing</string>
+    <string name="smart">Smart</string>
+    <string name="about">About</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="fragment_text">This app was created by Segun Francis, an android developer.</string>
+    <string name="github"><a href="https://www.github.com/segunfrancis">Github</a></string>
+    <string name="total">Total</string>
+    <string name="result">Friendship Result</string>
+    <string name="about_publisher">about_publisher</string>
+    <string name="more">Want to know more about me and my work? Check out the links below</string>
+    <string name="facebook"><a href="http://www.facebook.com/segun.francis1">Facebook</a></string>
+    <string name="twitter"><a href="http://www.twitter.com/segun__francis">Twitter</a></string>
+    <string name="share">share</string>
+    <string name="google"><a href="">Gmail</a></string>
+</resources>
